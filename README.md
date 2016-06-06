@@ -1,4 +1,6 @@
 # TuxLab
+
+[![Join the chat at https://gitter.im/learnlinux/tuxlab-app](https://badges.gitter.im/learnlinux/tuxlab-app.svg)](https://gitter.im/learnlinux/tuxlab-app?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
 Platform for creating Interactive Linux Courses
 
 [![wercker status](https://app.wercker.com/status/153c62fdbaf17191aed5cacc0a14e150/m "wercker status")](https://app.wercker.com/project/bykey/153c62fdbaf17191aed5cacc0a14e150)
